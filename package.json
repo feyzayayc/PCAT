@@ -1,0 +1,19 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "\"# PCAT\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feyzayayc/PCAT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feyzayayc/PCAT/issues"
+  },
+  "homepage": "https://github.com/feyzayayc/PCAT#readme"
+}
